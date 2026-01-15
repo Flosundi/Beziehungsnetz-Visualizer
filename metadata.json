@@ -1,0 +1,5 @@
+{
+  "name": "Beziehungsnetz Visualizer",
+  "description": "Ein interaktives Tool zur Visualisierung von Personen und Beziehungen mittels Force-Directed Graph.",
+  "requestFramePermissions": []
+}
